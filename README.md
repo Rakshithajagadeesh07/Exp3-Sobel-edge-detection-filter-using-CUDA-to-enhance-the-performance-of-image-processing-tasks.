@@ -207,7 +207,11 @@ plt.show()
 
 ##### ORIGINAL IMAGE:
 
+![lion](https://github.com/user-attachments/assets/66a85d99-3c7d-4b14-9331-164227c0fb36)
 
+##### EDGE DETECTION OUTPUT :
+
+<img width="511" height="411" alt="download" src="https://github.com/user-attachments/assets/5f96d9d7-510a-4fb1-b628-743909387844" />
 
 
 ## RESULT:
