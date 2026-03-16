@@ -204,12 +204,15 @@ plt.show()
 ## OUTPUT:
 
 ##### Total time taken: 96.683357 milliseconds
+
 ##### ORIGINAL IMAGE:
 
 
 
+
 ## RESULT:
-Thus the program has been executed by using CUDA to ________________.
+
+Thus the program has been executed by using CUDA to implement the Sobel edge detection filter and enhance the performance of image processing tasks through GPU parallel processing.
 
 Questions:
 
