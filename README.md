@@ -202,6 +202,8 @@ plt.show()
 
 
 ## OUTPUT:
+
+##### Total time taken: 96.683357 milliseconds
 ##### ORIGINAL IMAGE:
 
 
